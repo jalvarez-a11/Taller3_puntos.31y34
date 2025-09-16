@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "punto31.console", "punto31.console\punto31.console.csproj", "{9BB141BC-27D9-46D4-972A-A16556A30F59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Geometry", "Geometry\Geometry.csproj", "{4472FD53-E30E-4D2E-A4AD-2A222E912C40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BB141BC-27D9-46D4-972A-A16556A30F59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BB141BC-27D9-46D4-972A-A16556A30F59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BB141BC-27D9-46D4-972A-A16556A30F59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BB141BC-27D9-46D4-972A-A16556A30F59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4472FD53-E30E-4D2E-A4AD-2A222E912C40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4472FD53-E30E-4D2E-A4AD-2A222E912C40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4472FD53-E30E-4D2E-A4AD-2A222E912C40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4472FD53-E30E-4D2E-A4AD-2A222E912C40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1676D23E-D9F7-4D11-88D7-0B9D88F87F2A}
+	EndGlobalSection
+EndGlobal
